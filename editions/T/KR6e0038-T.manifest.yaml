@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0038/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0038/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說較量一切佛剎功德經
+  identifiers:
+    krp: KR6e0038
+    cbeta: T10n0290
+    cbeta_old_id: T10n0290
+    authorityid: CA0001559
+    json_key: T0290
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0290.xml
+    old_id: T10n0290
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0038_000-T.yaml, hash: 'sha256:961645f6120c3965aee2d1c7d2f8b0f11394c035b6aff00ee060fbe18f227b05'}
+  - {seq: 1, filename: KR6e0038_001-T.yaml, hash: 'sha256:fdefd7cd3a838bb1eab5baf93a62d84b08b98de1266106e0f68ca61c728936d4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0038_000-T.markers.yaml, hash: 'sha256:251edb25f225c1690d7499d12f84de3354244eb9117e2a572c67ebaccfc83ae1'}
+  - {seq: 1, role: markers, filename: assets/KR6e0038_001-T.markers.yaml, hash: 'sha256:5322e546140f9573d3fe173e517fccfa09c8227222c6a05e58ef39db3247fc9f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0038_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 563
+  label: 佛說較量一切佛剎功德經
+  type: juan
+  level: 1
+hash: sha256:ad00bad3bc2e58dbfcff787b8d66374e2fd99048ff8e5a7c1ed73572249eb770
