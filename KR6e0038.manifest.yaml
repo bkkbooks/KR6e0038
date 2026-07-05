@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0038_000.yaml, hash: 'sha256:961645f6120c3965aee2d1c7d2f8b0f11394c035b6aff00ee060fbe18f227b05'}
-  - {seq: 1, filename: KR6e0038_001.yaml, hash: 'sha256:fce53c6db20228a1b205528d90567778f92c003e831de0b9a8b8f74725b2c3a3'}
+  - {seq: 1, filename: KR6e0038_001.yaml, hash: 'sha256:fdefd7cd3a838bb1eab5baf93a62d84b08b98de1266106e0f68ca61c728936d4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0038_001.markers.yaml, hash: 'sha256:6ca7c9d6016b506b794680a8d2273a924fdaaea7593fdd91406bac6a63d0b8ba'}
+  - {seq: 0, role: markers, filename: assets/KR6e0038_000.markers.yaml, hash: 'sha256:91bb5a9750244f26fcfa546b608548a3157527a454043278ec7d63a1c6a6fada'}
+  - {seq: 1, role: markers, filename: assets/KR6e0038_001.markers.yaml, hash: 'sha256:a8dfb81df839a7764090b409019d9794240e27498472e696911a1c343a4f37d2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說較量一切佛剎功德經
   type: juan
   level: 1
-hash: sha256:711a8474b4dcab6bd8dded16cddecef5a8f30238b051e636efc0e763fb6ce906
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a4561905078e85ab995752cf6859fecd47cee9787de4fd47e9f960d4cfc665f6
