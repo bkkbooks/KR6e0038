@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0038/v1
 canonical_location: https://kanripo.org/bkk/KR6e0038/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說較量一切佛剎功德經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0038_000.yaml, hash: 'sha256:961645f6120c3965aee2d1c7d2f8b0f11394c035b6aff00ee060fbe18f227b05'}
-  - {seq: 1, filename: KR6e0038_001.yaml, hash: 'sha256:fdefd7cd3a838bb1eab5baf93a62d84b08b98de1266106e0f68ca61c728936d4'}
+  - {seq: 1, filename: KR6e0038_001.yaml, hash: 'sha256:82bb45525d3f158f61f9005e60b1dc420e7174bf3f267cb01366050e3a4cf60d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0038_000.markers.yaml, hash: 'sha256:91bb5a9750244f26fcfa546b608548a3157527a454043278ec7d63a1c6a6fada'}
-  - {seq: 1, role: markers, filename: assets/KR6e0038_001.markers.yaml, hash: 'sha256:a8dfb81df839a7764090b409019d9794240e27498472e696911a1c343a4f37d2'}
+  - {seq: 1, role: markers, filename: assets/KR6e0038_001.markers.yaml, hash: 'sha256:155e84bb8ff514937f5eb3a3c499c0c674372f053f2ab8cfba9f282f7f0d6123'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說較量一切佛剎功德經
   type: juan
   level: 1
-hash: sha256:a4561905078e85ab995752cf6859fecd47cee9787de4fd47e9f960d4cfc665f6
+hash: sha256:9cc8bdbfba3b80534088ba1608c1f834c1e28ea3c85c8f350100272ff85ce649
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
