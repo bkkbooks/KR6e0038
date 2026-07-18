@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6e0038_000-T.yaml, hash: 'sha256:961645f6120c3965aee2d1c7d2f8b0f11394c035b6aff00ee060fbe18f227b05'}
   - {seq: 1, filename: KR6e0038_001-T.yaml, hash: 'sha256:fdefd7cd3a838bb1eab5baf93a62d84b08b98de1266106e0f68ca61c728936d4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0038_000-T.markers.yaml, hash: 'sha256:251edb25f225c1690d7499d12f84de3354244eb9117e2a572c67ebaccfc83ae1'}
+  - {seq: 0, role: markers, filename: assets/KR6e0038_000-T.markers.yaml, hash: 'sha256:717702e94638aed4147dfc49c93676a6f62076729cceaf6c3745c8828b51da39'}
   - {seq: 1, role: markers, filename: assets/KR6e0038_001-T.markers.yaml, hash: 'sha256:5322e546140f9573d3fe173e517fccfa09c8227222c6a05e58ef39db3247fc9f'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說較量一切佛剎功德經
   type: juan
   level: 1
-hash: sha256:ad00bad3bc2e58dbfcff787b8d66374e2fd99048ff8e5a7c1ed73572249eb770
+hash: sha256:bca2e84ac9f81dc920fffc0c2a9b5c084a9f2475daa9c358a3ebc94f79531dd1
